@@ -1,6 +1,13 @@
 ![](https://raw.githubusercontent.com/roman-pleshka/roman-pleshka/main/profile.gif)
 
-### Languages
+ <div align="center">
+  
+   ![](https://komarev.com/ghpvc/?username=roman-pleshka&color=blueviolet)  
+   
+ </div> 
+ 
+
+## Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
@@ -9,10 +16,11 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=roman-pleshka&show_icons=true&locale=en" alt="roman-pleshka" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=roman-pleshka&show_icons=true&locale=en&layout=compact"/></p>
+## GitHub Stats
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=roman-pleshka&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-pleshka&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-
+<p style="padding: 20px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roman-pleshka&show_icons=true&include_all_commits=true&count_private=true" />    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roman-pleshka&layout=compact&exclude_lang=java+r" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roman-pleshka/roman-pleshka/output/github-contribution-grid-snake-dark.svg">
